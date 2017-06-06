@@ -1,17 +1,7 @@
 /*
- * UVa11059 incomplete
+ * UVa11059 accept
  */
 #include <iostream>
-// #include <sstream>
-// #include <vector>
-// #include <cstdio>
-// #include <algorithm>
-// #include <queue>
-// #include <map>
-// #include <stack>
-// #include <utility>
-#include <cstring>
-#include <cstdlib>
 
 using namespace std;
 

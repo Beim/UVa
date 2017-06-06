@@ -1,2 +1,6 @@
 in
 out
+a.out
+.idea/
+CMakeLists.txt
+cmake-build-debug/
