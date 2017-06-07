@@ -1,6 +1,6 @@
 /*
  * UVa10976
- * incomplete
+ * accept
  */
 #include <iostream>
 #include <vector>
@@ -25,7 +25,6 @@ struct Ans {
         this->y = y;
     }
 };
-
 
 void solve(int k, vector<Ans*> &varr) {
     int max = 2 * k;
